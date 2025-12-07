@@ -1,8 +1,3 @@
-Below is a **clean, professional README.md** rewritten with proper Markdown styling, **$ command prompts**, clean formatting, no emojis, and no unnecessary lines.
-This version is ready to paste directly into your GitHub repository.
-
----
-
 # Weather-Aware Autonomous Driving with TD3
 
 Reinforcement Learning over Multi-Modal Waymo Scene Embeddings
@@ -311,13 +306,5 @@ This project demonstrates a complete RL pipeline combining:
 
 The resulting agent learns **weather-aware autonomous driving behavior** on top of real-world multi-modal perception data.
 
----
 
-If you'd like, I can also generate:
 
-* A polished PDF for your report
-* LaTeX paper template
-* 5-minute presentation script
-* Slides matching this pipeline
-
-Just ask.
