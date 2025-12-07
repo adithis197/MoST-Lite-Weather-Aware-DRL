@@ -7,7 +7,7 @@ This repository implements a **weather-aware autonomous driving controller** usi
 The project is inspired by ideas from the **MOST: Multi-Modal Scene Tokenization** paper from Waymo, showing that combining vision, LiDAR, and environment context improves downstream planning and control.
 
 Paper link:
-[https://arxiv.org/abs/2406.09697](https://arxiv.org/abs/2406.09697)
+[https://arxiv.org/abs/2404.19531](https://arxiv.org/abs/2404.19531)
 
 ---
 
